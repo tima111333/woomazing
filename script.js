@@ -1,4 +1,4 @@
-let tabs1 = document.querySelector(".tabs1"),
+cd let tabs1 = document.querySelector(".tabs1"),
     tabs2 = document.querySelector(".tabs2"),
     tabs3 = document.querySelector(".tabs3"),
     h1 = document.querySelector(".section__div-h1"),
