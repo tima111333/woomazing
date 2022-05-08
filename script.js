@@ -62,3 +62,11 @@ function init(){
 }
 window.addEventListener('resize', init);
 init();
+
+document.querySelector('.slider-next').addEventListener('click', function () {
+    count++;
+    rollSlider();
+});
+function rollSlider(){
+    sliderLine.style.transform = 'translateX(-' +count * width + 'px)';
+}
