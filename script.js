@@ -46,3 +46,19 @@ tabs3.addEventListener('click', function () {
         p.classList.remove('animat')
     }, 1000)
 });
+const images = document.querySelectorAll('.slider .slider-line img');
+const sliderLine = document.querySelector('.slider-line');
+let count = 0;
+let width;
+
+function init(){
+    console.log('resize');
+    width = document.querySelector('.slider').offsetWidth;
+    sliderLine.style.width = width*images.length + "px";
+    images.forEach(item=>{
+        item.style.width = width  + "px";
+        item.style.height = "auto";
+    })
+}
+window.addEventListener('resize', init);
+init();
