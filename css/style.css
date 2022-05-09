@@ -366,10 +366,14 @@ ul {
     font-size: 40px;
     line-height: 110%;
 }
+.slider-container{
+    display: flex;
+}
 .slider-wrapper{
     display: flex;
+    justify-content: space-between;
     position: relative;
-    left: -60px;
+    left: -60px;    
     max-width: 850px;
 }
 .slider {
@@ -392,6 +396,43 @@ ul {
     border: none ;
     cursor: pointer;
     z-index: 2;
+}
+.slider-right{
+    margin-top: 110px;
+    max-width: 255px;
+    height: 300px;
+}
+.slider-p1{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 140%;
+    margin-top: 28px;
+}
+.slider-p2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 140%;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+.slider-p3 a{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 140%;
+    color: #6E9C9F;
+}
+.slider-right h3{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 140%;
 }
 
 
