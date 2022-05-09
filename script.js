@@ -58,13 +58,24 @@ function init(){
     images.forEach(item=>{
         item.style.width = width  + "px";
         item.style.height = "auto";
-    })
+    });
+    rollSlider();
 }
 window.addEventListener('resize', init);
 init();
 
+document.querySelector('.slider-prev').addEventListener('click', function () {
+    count--;
+    if(count <0){
+        count = images.length -1;
+    }
+    rollSlider();
+});
 document.querySelector('.slider-next').addEventListener('click', function () {
     count++;
+    if(count >= images.length){
+        count = 0;
+    }
     rollSlider();
 });
 function rollSlider(){
