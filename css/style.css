@@ -434,6 +434,33 @@ ul {
     font-size: 25px;
     line-height: 140%;
 }
+.slider-dots{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 60px;
+}
+.dots1{
+    width: 30px;
+    height: 5px;
+    background-color: rgba(255, 255, 255, 0.36);
+    margin-right: 5px;
+    cursor: pointer;
+}
+.dots2{
+    width: 30px;
+    height: 5px;
+    background-color: rgba(255, 255, 255, 0.36);
+    margin-right: 5px;
+    cursor: pointer;
+}
+.dots3{
+    width: 30px;
+    height: 5px;
+    background-color: rgba(255, 255, 255, 0.36);
+    margin-right: 5px;
+    cursor: pointer;
+}
 
 
 @keyframes animattabs {

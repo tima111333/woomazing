@@ -2,7 +2,10 @@
     tabs2 = document.querySelector(".tabs2"),
     tabs3 = document.querySelector(".tabs3"),
     h1 = document.querySelector(".section__div-h1"),
-    p = document.querySelector(".section__div-p");
+    p = document.querySelector(".section__div-p"),
+    dots1 = document.querySelector('.dots1'),
+    dots2 = document.querySelector('.dots2'),
+    dots3 = document.querySelector('.dots3');
 
 
 
@@ -69,6 +72,7 @@ document.querySelector('.slider-prev').addEventListener('click', function () {
     if(count <0){
         count = images.length -1;
     }
+    TabsColor();
     rollSlider();
 });
 document.querySelector('.slider-next').addEventListener('click', function () {
@@ -76,8 +80,21 @@ document.querySelector('.slider-next').addEventListener('click', function () {
     if(count >= images.length){
         count = 0;
     }
+    TabsColor();
     rollSlider();
 });
 function rollSlider(){
+    
     sliderLine.style.transform = 'translateX(-' +count * width + 'px)';
 }
+function TabsColor(){
+    if(sliderLine.style.transform == 'translateX(0px)' ){
+        dots1.style.backgroundColor = "red";
+       }else if(sliderLine.style.transform >= -723 ){
+       dots2.style.backgroundColor = 'pink';
+       }else if(sliderLine.style.transform <= -723){
+           dots3.style.backgroundColor = 'black';
+       }
+       
+}
+
