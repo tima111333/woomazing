@@ -88,12 +88,18 @@ function rollSlider(){
     sliderLine.style.transform = 'translateX(-' +count * width + 'px)';
 }
 function TabsColor(){
-    if(sliderLine.style.transform == 'translateX(0px)' ){
-        dots1.style.backgroundColor = "red";
-       }else if(sliderLine.style.transform >= -723 ){
-       dots2.style.backgroundColor = 'pink';
-       }else if(sliderLine.style.transform <= -723){
-           dots3.style.backgroundColor = 'black';
+    if(count == 0 ){
+        dots1.style.backgroundColor = "#fff";
+        dots2.style.backgroundColor = 'rgba(255, 255, 255, 0.36)';
+        dots3.style.backgroundColor = 'rgba(255, 255, 255, 0.36)';
+       }else if( count == 1 ){
+       dots2.style.backgroundColor = '#fff';
+       dots1.style.backgroundColor = 'rgba(255, 255, 255, 0.36)'
+       dots3.style.backgroundColor = 'rgba(255, 255, 255, 0.36)'
+       }else if(count == 2 ){
+           dots3.style.backgroundColor = '#fff';
+           dots2.style.backgroundColor = 'rgba(255, 255, 255, 0.36)'
+           dots1.style.backgroundColor = 'rgba(255, 255, 255, 0.36)'
        }
        
 }
