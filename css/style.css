@@ -385,7 +385,6 @@ ul {
 .slider-line {
     width: 1024px;
     display: flex;
-    background: orange;
     position: relative;
     left: 0;
     transition: all ease 1s;
@@ -461,7 +460,16 @@ ul {
     margin-right: 5px;
     cursor: pointer;
 }
-
+.footer{
+    margin-top: 130px;
+    width: 100%;
+    background-color: #F1EADC;
+    height: 363px;
+}
+.footer__nav{
+    display: flex;
+    justify-content: space-around;
+}
 
 @keyframes animattabs {
     from {
