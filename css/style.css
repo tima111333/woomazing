@@ -465,10 +465,14 @@ ul {
     width: 100%;
     background-color: #F1EADC;
     height: 363px;
+    
 }
 .footer__nav{
     display: flex;
+    height: 100%;
+    align-items: center;
     justify-content: space-around;
+    
 }
 
 @keyframes animattabs {
