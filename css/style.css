@@ -541,6 +541,7 @@ ul {
     font-size: 15px;
     line-height: 140%;
     letter-spacing: 0.02em;
+    padding-left: 125px;
 }
 .footer__block2-link a:hover{
     color:#6E9C9F  ;
