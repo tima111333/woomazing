@@ -609,9 +609,13 @@ ul {
 
 @media(max-width:840px){
     .nav__logo{
+        position: fixed;
+        top: 0;
+        right: 0;
+        margin-right: 10px;
+        font-size: 25px;
+        
         display: flex;
-        justify-content: right;
-        left: 0;
     }
     .navigation{
       position: fixed;
