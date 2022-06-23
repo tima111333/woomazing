@@ -5,10 +5,14 @@
     p = document.querySelector(".section__div-p"),
     dots1 = document.querySelector('.dots1'),
     dots2 = document.querySelector('.dots2'),
-    dots3 = document.querySelector('.dots3');
+    dots3 = document.querySelector('.dots3'),
+    burger = document.querySelector('.burger-menu'),
+    nav = document.querySelector('.navigation');
 
 
-
+burger.addEventListener('click',function(){
+ nav.classList.toggle('navigation-active')
+})
 
 tabs2.addEventListener('click', function () {
     tabs2.style.backgroundColor = "#000000";
