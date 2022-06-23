@@ -607,7 +607,7 @@ ul {
     }
 }
 
-@media(max-width:840px){
+@media(max-width:414px){
     .nav__logo{
         position: fixed;
         top: 0;
