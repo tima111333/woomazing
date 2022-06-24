@@ -11,7 +11,8 @@
 
 
 burger.addEventListener('click',function(){
- nav.classList.toggle('navigation-active')
+ nav.classList.toggle('navigation-active');
+ burger.classList.toggle('burger_active');
 })
 
 tabs2.addEventListener('click', function () {
