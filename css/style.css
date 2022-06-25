@@ -667,8 +667,7 @@ ul {
 
     .navigation {
         z-index: 1;
-        background-color: #6E9C9F;
-        mix-blend-mode: difference;
+        background-color: #6E9C9F;  
         position: fixed;
         left: -100%;
         display: block;
