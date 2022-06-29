@@ -673,8 +673,7 @@ ul {
     .nav__logo-text1{
         font-size: 35px;
         display: block;
-        position: absolute;
-        left: 50%;
+        text-align: center;
     }
     .container {
         min-width: 900px;
