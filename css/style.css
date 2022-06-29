@@ -47,11 +47,14 @@ ul {
     color: #6E9C9F;
 }
 
-.nav__logo {
+.nav__logo ,.nav__logo-text1{
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
     display: flex;
     align-items: center;
+}
+.nav__logo-text1{
+    display: none;
 }
 
 .nav__number-svg {
@@ -664,7 +667,14 @@ ul {
         display: none;
     }
     .nav__logo-text {
+
+        display: none;
+    }
+    .nav__logo-text1{
         font-size: 35px;
+        display: block;
+        position: absolute;
+        left: 50%;
     }
     .container {
         min-width: 900px;
