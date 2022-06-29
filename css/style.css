@@ -657,14 +657,10 @@ ul {
 
 @media(max-width:840px) {
     .nav__logo {
-        position: fixed;
-        top: 10px;
-        right: 50%;
-        font-size: 25px;
-        display: flex;
-        justify-content: center;
+        
     }
     .nav__logo svg{
+        overflow: hidden;
         display: none;
     }
     .nav__logo-text {
@@ -704,17 +700,27 @@ ul {
     }
 
     .navigation ul {
-        height: 250px;
+        height: 350px;
+        width: 350px;
     }
 
     .nav__menu-list li {
-        font-size: 20px;
-        width: 95px;
+        font-size: 30px;
+        width: 200px;
+        padding-top: 30px;
         margin: 0 auto;
+        text-align: center;
+    }
+    .nav__menu-list li:nth-child(1){
+        margin-top: 60px;
+    }
+    .nav__number {
+        position: ;
     }
 
     .nav__menu-list li>a {
-        color: white;
+        font-weight: 700;
+        color: #fff;
         text-align: center;
     }
 
