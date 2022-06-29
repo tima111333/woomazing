@@ -691,7 +691,7 @@ ul {
         position: fixed;
         left: -100%;
         display: block;
-        top: -50px;
+        top: -55px;
         transition: left 2.5s ease;
     }
 
