@@ -7,6 +7,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.new__collection img{
+    max-width: 100%;
+}
 
 a {
     text-decoration: none;
@@ -659,6 +662,7 @@ ul {
 }
 
 @media(max-width:840px) {
+
     .nav__logo {
         
     }
@@ -677,6 +681,7 @@ ul {
     }
     .container {
         min-width: 900px;
+        padding: 0 15px;
     }
     .section {
         display: flex;
@@ -801,4 +806,8 @@ ul {
     }
 
 
+    .slider-container {
+
+        flex-wrap: wrap;
+    }
 }
