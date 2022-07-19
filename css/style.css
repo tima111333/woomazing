@@ -704,7 +704,7 @@ ul {
         background-color: #6E9C9F;  
         position: fixed;
         left: -100%;
-        min-height: 100%;
+        min-height: 120%;
         display: block;
         top: -55px;
         transition: left 1.5s ease;
