@@ -9,11 +9,18 @@
     burger = document.querySelector('.burger-menu'),
     nav = document.querySelector('.navigation');
 
-
-burger.addEventListener('click',function(){
+burger.addEventListener('click',function(e){
  nav.classList.toggle('navigation-active');
  burger.classList.toggle('burger_active');
-})
+ if(nav.classList.contains('navigation-active')){
+    document.body.style.overflow = "hidden";
+ }else{
+    document.body.style.overflow = "visible"
+ }
+
+});
+
+
 
 tabs2.addEventListener('click', function () {
     tabs2.style.backgroundColor = "#000000";

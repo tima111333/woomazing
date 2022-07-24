@@ -1,6 +1,12 @@
 :root {
     --icon-color: #000;
 }
+ body {
+    margin: 0;
+    padding: 0;
+    height: 100%; /* или 100vh */
+    overflow: auto;
+}
 
 * {
     margin: 0;
@@ -704,7 +710,7 @@ ul {
         background-color: #6E9C9F;  
         position: fixed;
         left: -100%;
-        min-height: 120%;
+        min-height: 150%;
         display: block;
         top: -55px;
         transition: left 1.5s ease;
