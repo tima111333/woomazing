@@ -655,7 +655,9 @@ ul {
 .footer__facebook {
     margin-bottom: 2px;
 }
-
+.nav__number2{
+    display: none;
+}
 
 @keyframes animattabs {
     from {
@@ -667,6 +669,7 @@ ul {
     }
 }
 
+
 @media(max-width:643px) {
 
     .nav__logo {
@@ -677,13 +680,13 @@ ul {
         display: none;
     }
     .nav__logo-text {
-
         display: none;
     }
     .nav__logo-text1{
         font-size: 35px;
         display: block;
         text-align: center;
+        margin-top: 15px;
     }
     .container {
         min-width: 900px;
@@ -719,6 +722,21 @@ ul {
     .navigation ul>li {
         margin-bottom: 10px;
     }
+    .navigation ul>li a:hover{
+        color: black;
+    }
+    .nav__number{
+        display: none;
+        overflow: hidden;
+    }
+    .nav__number2{
+        display: flex;
+        justify-content: right;
+        margin-top: -30px;
+       }
+       .nav__number-svg{
+         
+       }
 
     .navigation ul {
         height: 350px;
@@ -735,10 +753,6 @@ ul {
     .nav__menu-list li:nth-child(1){
         margin-top: 60px;
     }
-    .nav__number {
-        position: ;
-    }
-
     .nav__menu-list li>a {
         font-weight: 700;
         color: #fff;
