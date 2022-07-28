@@ -712,7 +712,7 @@ ul {
         z-index: 1;
         background-color: #6E9C9F;  
         position: fixed;
-        left: -100%;
+        left: -150%;
         min-height: 150%;
         display: block;
         top: -55px;
@@ -721,7 +721,7 @@ ul {
 
     .navigation ul>li {
         margin-bottom: 10px;
-        width: 400px;
+        width: 350px;
     }
     .navigation ul>li a:hover{
         color: black;
@@ -742,7 +742,7 @@ ul {
     .navigation ul {
         margin-top: 100px;
         height: 350px;
-        width: 450px;
+        width: 400px;
     }
 
     .nav__menu-list li {
