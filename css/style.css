@@ -721,6 +721,7 @@ ul {
 
     .navigation ul>li {
         margin-bottom: 10px;
+        width: 400px;
     }
     .navigation ul>li a:hover{
         color: black;
@@ -739,14 +740,15 @@ ul {
        }
 
     .navigation ul {
+        margin-top: 100px;
         height: 350px;
-        width: 350px;
+        width: 450px;
     }
 
     .nav__menu-list li {
-        font-size: 30px;
+        
         width: 200px;
-        padding-top: 30px;
+        padding-top: 70px;
         margin: 0 auto;
         text-align: center;
     }
@@ -754,9 +756,11 @@ ul {
         margin-top: 60px;
     }
     .nav__menu-list li>a {
+        font-size: 50px;
         font-weight: 700;
         color: #fff;
         text-align: center;
+        
     }
 
     .navigation-active {
