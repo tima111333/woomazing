@@ -1,0 +1,230 @@
+[33mcommit 4e5afa25d73ec63b7e53b3235a01b819b6145553[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Thu Jul 28 22:03:37 2022 +0300
+
+    убрал зум
+
+[33mcommit 844ddab4013999a753d3992e935a88b7d96a6aa3[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Thu Jul 28 11:35:38 2022 +0300
+
+    fdkf
+
+[33mcommit 69de26dfeb67d11f0dd8b941d622f5a2f931d439[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Thu Jul 28 11:33:52 2022 +0300
+
+     бургер
+
+[33mcommit 0ca674c1c7244ae7d63c5c81f2d8fdd49c1b4d82[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Thu Jul 28 09:29:44 2022 +0300
+
+    исправил бургер
+
+[33mcommit 4cacc3e51bd94f265d15e112220f4ac2b9a7bfaf[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Wed Jul 27 14:39:21 2022 +0300
+
+    fodkf
+
+[33mcommit b88e2c6583234e9774631b634b66b48bba32d88e[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Sun Jul 24 12:28:09 2022 +0300
+
+    Убрал скрол по нажатию на бургер
+
+[33mcommit 6bb29cfff85643684e80b94b2102447c62190216[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Wed Jul 20 00:02:07 2022 +0300
+
+    Изменение медия
+
+[33mcommit c9794dd57ae2e96514eb3c8c298f35ca8c5e584a[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Tue Jul 19 19:18:18 2022 +0300
+
+    fdf
+
+[33mcommit b532988b0893392bce8ca65c0f5fbb21b6b53436[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Tue Jul 19 19:11:09 2022 +0300
+
+    Работа с бургером
+
+[33mcommit 7dde064f404ff8ad04cf32202a5e62f48b0c336f[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Thu Jun 30 12:28:41 2022 +0300
+
+    max-width увеличил
+
+[33mcommit 1d0f77fdc089ee5975ea132415a5c85451fb2e72[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Wed Jun 29 18:16:50 2022 +0300
+
+    изменения в адаптиве
+
+[33mcommit 33e0e2bb8af2628dd0e48dfc92c019d6995d22ce[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Wed Jun 29 17:45:33 2022 +0300
+
+    позиционирование логотипа
+
+[33mcommit ed396866a5aa7dd3a3a86f01d8d416ed747ca5ee[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Wed Jun 29 17:41:55 2022 +0300
+
+    позиционирование логотипа
+
+[33mcommit ed2ecc13ed94906b6ef5ea05b0d67e096a9be0b7[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Wed Jun 29 16:08:44 2022 +0300
+
+    убрал отступ
+
+[33mcommit 72c6740b0371d5230a8fa7e62e22683f43aaf24f[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Wed Jun 29 15:55:50 2022 +0300
+
+    fdf
+
+[33mcommit 88b39a20e0f98af2a299f96ccb1583739ab7f835[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Sun Jun 26 21:24:48 2022 +0300
+
+    проверка
+
+[33mcommit 1b47776e316b0dc95f9e46a1e99a0878e3b54b2d[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Sat Jun 25 13:30:07 2022 +0300
+
+    fdf
+
+[33mcommit 971e127b26817bb673e52495b4f1fee45aea61a3[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Fri Jun 24 19:36:07 2022 +0300
+
+    доделал бургер
+
+[33mcommit 7ca5f265378a2ce4668e521cd8c79093ae307f35[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Fri Jun 24 11:16:04 2022 +0300
+
+    fdf
+
+[33mcommit 2b57dc3d1d9c01f21a1ab5c2026591a1dd527c58[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Thu Jun 23 23:06:43 2022 +0300
+
+    тоже самое
+
+[33mcommit 6a73d680144b7e3b4439a9b465e7a0eb08994f81[m
+Merge: 494579f 749f1b3
+Author: Timur <super.tima2001@mail.ru>
+Date:   Thu Jun 23 23:02:32 2022 +0300
+
+    Merge branch 'master' of https://github.com/tima111333/woomazing
+
+[33mcommit 494579ff4efbd39ff2b2b201e4b5fbfbd47b8728[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Thu Jun 23 23:01:35 2022 +0300
+
+    дорабатываю бургер
+
+[33mcommit 749f1b3eacd8cc8e00558ac4b11d967a9248a805[m
+Author: tima111333 <37471170+tima111333@users.noreply.github.com>
+Date:   Thu Jun 23 23:00:08 2022 +0300
+
+    Create README.md
+
+[33mcommit 9faec4dd8d7dea7f35e5ecf55d006a5287b748c3[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Thu Jun 23 16:26:05 2022 +0300
+
+    Надо доделать бургер
+
+[33mcommit 3bb47df74d02e995545dc03f319147218485edc8[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Tue May 31 11:32:24 2022 +0300
+
+    доработал футер
+
+[33mcommit a4e2d7901ce1d37243166a80947e4288ea9597a0[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Mon May 30 22:29:41 2022 +0300
+
+    готов сайт
+
+[33mcommit 28da2510883a05dc879f99bc3485d05bf9b7e84e[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Sun May 29 03:15:31 2022 +0300
+
+    Футер почти готов
+
+[33mcommit 0118de1f5809cc35f346cfa1b0a45da9f0cbc9cd[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Sun May 15 10:42:44 2022 +0300
+
+    Начало футера
+
+[33mcommit 1b76af9466693a51ec99f63f90291bdb8bf0c584[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Sat May 14 15:21:46 2022 +0300
+
+    табы готовы
+
+[33mcommit 2fc34c963d3a57eadc0974909db4d642f514c4a3[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Sat May 14 14:51:37 2022 +0300
+
+    Табы доделать надо
+
+[33mcommit 9b3b18d9118ef7430a836372ad91226b28bd1144[m
+Merge: f7ea801 b1e5712
+Author: timur <super.tima2001@mail.ru>
+Date:   Mon May 9 23:38:11 2022 +0300
+
+    Merge branch 'master' of https://github.com/tima111333/woomazing
+
+[33mcommit f7ea801c8cd90cfee6a9afc87b70afde9da4b773[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Mon May 9 23:37:48 2022 +0300
+
+    Правый блок слайдера
+
+[33mcommit b1e57128d666500a03b68237d437e15dea919178[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Mon May 9 13:32:29 2022 +0300
+
+    Слайднер готов
+
+[33mcommit a014a67cdf6ff745fe10d0c448b79b4bd038cbfb[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Sun May 8 19:18:14 2022 +0300
+
+    Слайдер почти готов
+
+[33mcommit 0958d917796c43122b65c894ed3826e9ca81c491[m
+Merge: 26cfdd2 b65504f
+Author: timur <super.tima2001@mail.ru>
+Date:   Sun May 8 14:10:37 2022 +0300
+
+    Merge branch 'master' of https://github.com/tima111333/woomazing
+
+[33mcommit 26cfdd2ab3111c9d7fd40142a4ba98c393432eec[m
+Author: timur <super.tima2001@mail.ru>
+Date:   Sun May 8 14:00:56 2022 +0300
+
+    Принял обновление
+
+[33mcommit b65504fecc9fcb7d54959659ff861ee8eaacd14f[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Sun May 8 13:52:05 2022 +0300
+
+    обновление слайдера
+
+[33mcommit 69d86d92fde3a248c4132bb2b644ed1aaeac578a[m
+Author: Timur <super.tima2001@mail.ru>
+Date:   Sat May 7 15:36:11 2022 +0300
+
+    Недоделанный слайдер
