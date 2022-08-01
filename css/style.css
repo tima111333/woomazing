@@ -6,6 +6,7 @@
     padding: 0;
     height: 100%; /* или 100vh */
     overflow: auto;
+    min-width: 100%;
 }
 
 * {
@@ -29,6 +30,7 @@ body {
 }
 
 .wrapper {
+    
     min-height: 100%;
 }
 
@@ -670,7 +672,7 @@ ul {
 }
 
 
-@media(max-width:643px) {
+@media(max-width:800px) {
 
     .nav__logo {
         
